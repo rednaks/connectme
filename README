@@ -1,1 +1,13 @@
-Connec me please
+Connect me please
+An easy way to connecto to wireless using CLI
+
+USAGE : 
+#./connectme ESSID
+where : ESSID is the essid of the access point you would like to connect on.
+
+TODO:
+	DO KNOW YET. 
+
+license:
+This project is under WTFPL: DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE.
+so You just DO WHAT THE FUCK YOU WANT TO.
